@@ -20,14 +20,12 @@
 
 
 :root {
-
-  --color-primary: hsl(0, 0%, 4%);
-  --color-primary-dark: hsl(0, 75%, 46%);
-  --color-light-bg: hsl(64, 100%, 50%);
-  --color-light-accent: hsl(260, 10%, 94%);
-  --color-light-pale: hsl(34, 100%, 49%);
-  --color-text-dark: hsl(226, 93%, 24%);
-
+  --color-primary: hsl(30, 100%, 40%);
+  --color-primary-dark: hsl(30, 100%, 33%);
+  --color-light-bg: hsl(45, 100%, 90%);
+  --color-light-accent: hsl(45, 100%, 77%);
+  --color-light-pale: hsl(45, 100%, 72%);
+  --color-text-dark: hsl(33, 100%, 30%);
 }
 
 
