@@ -13,6 +13,30 @@
   --font-xs: 1rem;
 }
 
+:root
+
+{
+  --color-primary-dark: rgb(148, 110, 57);
+  --color-light-bg: #320f74;
+  --color-light-accent: rgb(255, 187, 0);
+  --color-light-pale: hsla(140, 100%, 72%, 0.293);
+  --color-text-dark: hsl(6, 100%, 30%);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 body {
   margin: 0;
   line-height: 1.6;
