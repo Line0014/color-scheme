@@ -17,14 +17,19 @@
 
 
 
+
+
 :root {
-  --color-primary: #d8530c;
-  --color-primary-dark: rgb(0, 203, 14);
-  --color-light-bg: #5f4d0b;
-  --color-light-accent: rgb(90, 5, 225);
-  --color-light-pale: hsl(211, 100%, 38%);
-  --color-text-dark: hsl(33, 97%, 12%);
+
+  --color-primary: hsl(0, 0%, 4%);
+  --color-primary-dark: hsl(0, 75%, 46%);
+  --color-light-bg: hsl(64, 100%, 50%);
+  --color-light-accent: hsl(260, 10%, 94%);
+  --color-light-pale: hsl(34, 100%, 49%);
+  --color-text-dark: hsl(226, 93%, 24%);
+
 }
+
 
 
 
